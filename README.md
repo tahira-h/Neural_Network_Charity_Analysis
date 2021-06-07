@@ -10,7 +10,7 @@ RESULTS
 
 What variable(s) are considered to be the features for your model?
 
-* As shown in the image below, the variable considered as a target for the model is the IS_SUCCESSFUL Column.
+* As shown in the image below, the variable considered as a target for the model is the 'IS_SUCCESSFUL' column.
 
 Open the file containing IS_SUCCESSFUl.
 ![IS_SUCCESSFUL](/Neural_Network_Charity_Analysis/Resources/IS_SUCCESSFUL.png)
