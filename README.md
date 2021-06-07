@@ -16,9 +16,9 @@ Open the file containing IS_SUCCESSFUl.
 ![IS_SUCCESSFUL](/Neural_Network_Charity_Analysis/Resources/IS_SUCCESSFUL.png)
 Close the file.
 
-Variable(s) Considered to be the Features for the Model?
+Variable(s) considered to be the features for the model?
 
-* The image above also shows that variables considered to be the features for the model is every model except for the IS_SUCCESSFUL Column, which is the target.
+* The image above also shows that variables considered to be the features for the model is every model except for the 'IS_SUCCESSFUL' column, which is the target.
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
 
