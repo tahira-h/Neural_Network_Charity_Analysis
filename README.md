@@ -32,8 +32,8 @@ Close the file.
  
 * As shown in the image below, for this analysis, the neural network model has 3 layers: "hidden layer 1", "hidden layer 2", and "output layer". Hidden layer 1 has 80 neurons and uses activation function "relu". Hidden layer 2 has 30 neurons and uses activation function "relu". The  output does not have any neurons, and uses the activation function "sigmoid". The neurons, layers, and activation functions were selected to define the neural network model.
 
-Open the file containing Drop_the_columns.
-![Drop_the_columns](/Neural_Network_Charity_Analysis/Resources/Number_of neurons_layers_and_activation.png)
+Open the file containing Number_of_neurons_layers_and_activation.
+![Number_of_neurons_layers_and_activation](/Neural_Network_Charity_Analysis/Resources/Number_of_neurons_layers_and_activation.png)
 Close the file.
 
 Were you able to achieve the target model performance?
