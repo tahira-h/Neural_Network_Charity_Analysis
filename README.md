@@ -58,7 +58,7 @@ SUMMARY
 
 Results
 
-The machine learning mode. and neural network used in this analysis had an accuracy score of 63%(0.6365014314651489). Steps taken in this analysis were to improve the accuracy score, however, the steps taken decreased the accuracy score each time a change was made. Leading to the model's accuracy score to not reach the expected amount of accuracy. A reason for this inaccuracy is due to the model being overfitted. Meaning, we could have added more data to the dataset for the model to not be overfitted with too
+The machine learning model. and neural network used in this analysis had an accuracy score of 63%(0.6365014314651489). Steps taken in this analysis were to improve the accuracy score, however, the steps taken decreased the accuracy score each time a change was made. Leading to the model's accuracy score to not reach the expected amount of accuracy. A reason for this inaccuracy is due to the model being overfitted. Meaning, we could have added more data to the dataset for the model to not be overfitted with too
 much data. 
 
 Recommendation
