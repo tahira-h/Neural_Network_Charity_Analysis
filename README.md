@@ -40,8 +40,8 @@ Were you able to achieve the target model performance?
 
 *In this analysis, I was not able to achieve the target model performance of 75%. As shown in the image below, the model accuracy was 63%(0.6365014314651489).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Target_Model_Performance.
+![Target_Model_Performance](/Neural_Network_Charity_Analysis/Resources/Target_Model_Performance.png)
 Close the file.
 
 What steps did you take to try and increase model performance?
