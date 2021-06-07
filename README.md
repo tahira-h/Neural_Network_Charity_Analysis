@@ -24,8 +24,8 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 * Two variables that were neither targets nor features, and should have been removed from the input data were EIN and NAME. These columns were dropped in regards to the limited impact it had on the outcome or results of this dataset. The two columns dropped are shown in the image below.
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Drop_the_columns.
+![Drop_the_columns](/Neural_Network_Charity_Analysis/Resources/Drop_the_columns.png)
 Close the file.
 	
  How many neurons, layers, and activation functions did you select for your neural network model, and why?
