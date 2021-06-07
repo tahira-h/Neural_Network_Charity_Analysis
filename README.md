@@ -46,7 +46,7 @@ Close the file.
 
 What steps did you take to try and increase model performance?
 
-There were 2 steps taken to try and increase the model's performance. Columns were dropped, hidden layers were added, and one of the activation's were updated.
+There were 2 steps taken to try and increase the model's performance. Columns were dropped, hidden layers were added, and activation functions were used.
 
 * Step 1: The non-beneficial 'EIN', 'NAME', and 'USE_CASE' columns were removed. 
 
