@@ -50,7 +50,9 @@ There were 2 steps taken to try and increase the model's performance. Columns we
 
 * Step 1: The non-beneficial 'EIN', 'NAME', and 'USE_CASE' columns were removed. 
 
-* Step 2: Additional hidden layers were added to the dataset, including neurons. The output layer did not have any neurons, and used activation function "sigmoid". This step is what decreased the model's accuracy to 63%(0.6365014314651489).
+* Step 2: Additional hidden layers were added to the dataset, including neurons. The output layer did not have any neurons, and used activation function "sigmoid". 
+
+These two steps used is what decreased the model's accuracy to 63%(0.6365014314651489).
 
 SUMMARY
 
