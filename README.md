@@ -10,43 +10,45 @@ RESULTS
 
 What variable(s) are considered to be the features for your model?
 
-* The variable considered as a target for the model is the IS_SUCCESSFUL Column.
+* As shown in the image below, the variable considered as a target for the model is the IS_SUCCESSFUL Column.
 
-		--IMAGE--   where is it?
+Open the file containing UFO_1.
+![UFO_1](/UFOs/static/images/UFO_1.png)
+Close the file.
 
-Variable(s) Considered to be the Features for the Model
+Variable(s) Considered to be the Features for the Model?
 
-* The variables considered to be the features for the model is (every model except for IS_SUCCESSFUL Column which is our target and the ones we will drop)
-
-		-- IMAGE-- find it in the code
+* The image above also shows that variables considered to be the features for the model is every model except for the IS_SUCCESSFUL Column, which is the target.
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
 
-* Two variables that were neither targets nor features, and should have been removed from the input data were EIN and NAME. These columns were dropped in regards to the limited impact it had had on the outcome or results of this dataset.
+* Two variables that were neither targets nor features, and should have been removed from the input data were EIN and NAME. These columns were dropped in regards to the limited impact it had on the outcome or results of this dataset. The two columns dropped are shown in the image below.
 
-		-- IMAGE-- show where it is dropped
+Open the file containing UFO_1.
+![UFO_1](/UFOs/static/images/UFO_1.png)
+Close the file.
 	
  How many neurons, layers, and activation functions did you select for your neural network model, and why?
  
-* As shown in the image below, for this analysis, the neural network model has 3 layers: "hidden layer 1", "hidden layer 2", and "output layer". Hidden layer 1 has 80 neurons and uses activation function "relu". Hidden layer 2 has 30 neurons and uses activation function "relu". The  output does not have any neurons, and uses the activation function "sigmoid".
+* As shown in the image below, for this analysis, the neural network model has 3 layers: "hidden layer 1", "hidden layer 2", and "output layer". Hidden layer 1 has 80 neurons and uses activation function "relu". Hidden layer 2 has 30 neurons and uses activation function "relu". The  output does not have any neurons, and uses the activation function "sigmoid". The neurons, layers, and activation functions were selected to define the neural network model.
 
-* The neurons, layers, and activation functions were selected to define the neural network model.
-
-		--IMAGE HERE--
+Open the file containing UFO_1.
+![UFO_1](/UFOs/static/images/UFO_1.png)
+Close the file.
 
 Were you able to achieve the target model performance?
 
 *In this analysis, I was not able to achieve the target model performance of 75%. As shown in the image below, the model accuracy was 63%(0.6365014314651489).
 
-		--IMAGE HERE--
+Open the file containing UFO_1.
+![UFO_1](/UFOs/static/images/UFO_1.png)
+Close the file.
 
 What steps did you take to try and increase model performance?
 
-As shown in the images below, there were 2 steps taken to try and increase the model's performance. Columns were dropped, hidden layers were added, and one of the activation's were updated.
+There were 2 steps taken to try and increase the model's performance. Columns were dropped, hidden layers were added, and one of the activation's were updated.
 
 * Step 1: The non-beneficial 'EIN', 'NAME', and 'USE_CASE' columns were removed. 
-
-		-- IMAGE HERE--
 
 * Step 2: Additional hidden layers were added to the dataset, including neurons. The output layer did not have any neurons, and used activation function "sigmoid". This step is what decreased the model's accuracy to 63%(0.6365014314651489).
 
