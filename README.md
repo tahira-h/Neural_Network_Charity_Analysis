@@ -12,8 +12,8 @@ What variable(s) are considered to be the features for your model?
 
 * As shown in the image below, the variable considered as a target for the model is the IS_SUCCESSFUL Column.
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing IS_SUCCESSFUl.
+![IS_SUCCESSFUL](/Neural_Network_Charity_Analysis/Resources/IS_SUCCESSFUL.png)
 Close the file.
 
 Variable(s) Considered to be the Features for the Model?
